@@ -19,11 +19,6 @@ student stu_add(){
     cin>>add;
     cin>>dob;
     cin>>md;
-
-    return student(i,name,bl,add,dob,md);
-
-
-
 };
 
 void stu_update(student& s ){

@@ -67,9 +67,9 @@ class student{
             cout << "Student ID: " << stu_id << endl;
             cout << "Student Name: " << name << endl;
             cout << "Blood group " << blood  << endl;
-            cout << "Address" << addr << endl;
-            cout << "Date of Birth " << date_of_birth << endl;
-            cout << "Module number" << stu_module << endl;
+            cout << "Address:  " << addr << endl;
+            cout << "Date of Birth:  " << date_of_birth << endl;
+            cout << "Module number:  " << stu_module << endl;
             cout<<"-----------------------------------------------------------"<<endl;
             cout<<"-----------------------------------------------------------"<<endl;
     }
